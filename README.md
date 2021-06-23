@@ -2,7 +2,7 @@
 Sigma Software Inc. Backend Developer Asigment
 
 
-![Backend Assigment](/Screenshot.png)
+![Backend Assigment](/ss.png)
 
 ## Installation
 
