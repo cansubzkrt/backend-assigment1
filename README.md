@@ -9,7 +9,7 @@ Sigma Software Inc. Backend Developer Asigment
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cansubzkrt/sigma-backend-assigment.git
+git clone https://github.com/cansubzkrt/backend-assigment1.git
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```linux
-cd sigma-backend-assigment
+cd backend-assigment1
 code .
 ```
 
